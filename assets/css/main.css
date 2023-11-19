@@ -1,10 +1,12 @@
+/* Reset default styles */
 .hidden {
   display: none;
 }
 
+/* General Styles */
 #more {
   margin: 0 0 10px 0;
-  padding: 15px 15px;
+  padding: 10px; /* Adjusted padding for better spacing */
   white-space: normal !important;
   word-wrap: break-word;
 }
@@ -12,32 +14,26 @@
 .style {
   font-family: "Raleway", sans-serif;
 }
+
+/* Header Styles */
 .container-fluid h1 {
   color: blanchedalmond;
   margin: 2% 17%;
 }
+
 .container-fluid h2 {
   color: white;
 }
+
 #fb {
   float: right;
 }
 
+/* Form and Table Styles */
 .container-fluid form table {
   width: 50%;
   margin: 5% 11.5%;
   font-family: "Roboto", sans-serif;
-}
-#go {
-  width: 75%;
-  margin: 0;
-}
-#reset {
-  width: 50%;
-  margin: 2% 25%;
-}
-#gpa {
-  color: azure;
 }
 
 /* Button Styles */
@@ -46,14 +42,16 @@
   margin-top: 10px;
 }
 
-#more {
-  padding: 10px;
-}
-
 #go {
   margin-left: 4%; /* Adjusted margin for better spacing */
 }
 
+/* GPA Result Styles */
+#gpa {
+  color: azure;
+}
+
+/* Submit Button Styles */
 .btn-outline-info {
   color: #ffffff;
   border-color: #17a2b8;
@@ -64,5 +62,3 @@
   color: #343a40;
   background-color: #17a2b8;
 }
-
-
