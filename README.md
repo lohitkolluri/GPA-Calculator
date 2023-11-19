@@ -3,7 +3,7 @@
 This is a simple GPA (Grade Point Average) calculator for SRM University. Users can input their course credits and achieved grades to calculate their GPA.
 
 ## Demo
-[Live Demo](https://lohitkolluri.github.io/GPA-Calculator/) 
+[Live Demo](https://srmgpacalc.vercel.app/)
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a simple GPA (Grade Point Average) calculator for SRM University. Users 
 
 ## How to Use
 
-1. Visit the [Live Demo](https://lohitkolluri.github.io/GPA-Calculator/).
+1. Visit the [Live Demo](https://srmgpacalc.vercel.app/).
 2. Enter the details for each course:
    - Course #
    - Credits
