@@ -1,0 +1,68 @@
+.hidden {
+  display: none;
+}
+
+#more {
+  margin: 0 0 10px 0;
+  padding: 15px 15px;
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+
+.style {
+  font-family: "Raleway", sans-serif;
+}
+.container-fluid h1 {
+  color: blanchedalmond;
+  margin: 2% 17%;
+}
+.container-fluid h2 {
+  color: white;
+}
+#fb {
+  float: right;
+}
+
+.container-fluid form table {
+  width: 50%;
+  margin: 5% 11.5%;
+  font-family: "Roboto", sans-serif;
+}
+#go {
+  width: 75%;
+  margin: 0;
+}
+#reset {
+  width: 50%;
+  margin: 2% 25%;
+}
+#gpa {
+  color: azure;
+}
+
+/* Button Styles */
+#more, #go, #reset {
+  width: 30%; /* Adjusted width for better alignment */
+  margin-top: 10px;
+}
+
+#more {
+  padding: 10px;
+}
+
+#go {
+  margin-left: 4%; /* Adjusted margin for better spacing */
+}
+
+.btn-outline-info {
+  color: #ffffff;
+  border-color: #17a2b8;
+  width: 30%; /* Adjusted width for better alignment */
+}
+
+.btn-outline-info:hover {
+  color: #343a40;
+  background-color: #17a2b8;
+}
+
+
