@@ -1,9 +1,17 @@
 # GPA Calculator
 
-This is a simple GPA (Grade Point Average) calculator for SRM University. Users can input their course credits and achieved grades to calculate their GPA.
+A simple GPA (Grade Point Average) calculator designed for SRM University. This calculator allows users to input their course credits and achieved grades to calculate their GPA.
 
 ## Demo
+
 [Live Demo](https://srmgpacalc.vercel.app/)
+
+## Table of Contents
+
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Technologies Used](#technologies-used)
+- [License](#license)
 
 ## Features
 
